@@ -1,4 +1,4 @@
-package hello;
+package com.yuranos.customer.model;
 
 import org.springframework.data.annotation.Id;
 
